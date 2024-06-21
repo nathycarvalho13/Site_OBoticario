@@ -1,7 +1,7 @@
 # Site_OBoticario
 
 
-Bem-vindo ao repositório do projeto "Site_OBoticário". Este projeto é uma página web que exibe uma seleção de perfumes e produtos do OBoticário, uma das maiores redes de cosméticos do Brasil. A página inclui um menu de navegação, um carrossel de imagens, uma seção de produtos e um formulário de contato.
+<h3> Bem-vindo ao repositório do projeto "Site_OBoticário". Este projeto é uma página web que exibe uma seleção de perfumes e produtos do OBoticário, uma das maiores redes de cosméticos do Brasil. A página inclui um menu de navegação, um carrossel de imagens, uma seção de produtos e um formulário de contato.
 
 Índice
 
@@ -39,7 +39,7 @@ Fontes e Imagens: Recursos visuais utilizados para a criação do design.
 
 Como Executar o Projeto
 
-link:
+link: https://site-o-boticario.vercel.app/
 
 Estrutura do Projeto:
 
@@ -88,5 +88,5 @@ linkedin:
 https://www.linkedin.com/in/nathalia-carvalho-de-albuquerque/
 
 
-Desenvolvido com ❤️ por Nathália Carvalho.
+Desenvolvido com ❤️ por Nathália Carvalho. </h3>
 
