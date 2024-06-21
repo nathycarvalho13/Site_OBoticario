@@ -43,21 +43,36 @@ link:
 
 Estrutura do Projeto:
 
-perfumes-oboticario/
-│
-├── index.html        # Página principal do projeto
-├── styles.css        # Estilos CSS
-├── script.js         # Funcionalidades JavaScript
-├── imagens/          # Diretório com as imagens utilizadas
-│   ├── Ultimos_Lancamentos.jpg
-│   ├── melissa_geral.webp
-│   ├── MEN-E-BRAHMA.jpg
-│   ├── OBoticario.jpg
-│   ├── malbec.jpg
-│   ├── Floratta.jpg
-│   ├── coffee.jpg
-│
-└── README.md         # Documentação do projeto
+index.html: Este é o arquivo principal da página web. Contém toda a estrutura HTML da página, incluindo o cabeçalho, navegação, seções de conteúdo e o rodapé.
+
+styles.css: Arquivo de estilos CSS que define a aparência e o layout da página. Ele contém todas as regras de estilo aplicadas aos elementos HTML, garantindo uma apresentação visual agradável.
+
+script.js: Arquivo de script JavaScript responsável pela interatividade e funcionalidades dinâmicas da página, como o carrossel de imagens e o formulário de contato.
+
+imagens/: Diretório que contém todas as imagens utilizadas na página. Este diretório inclui imagens para o carrossel e para a seção de produtos. 
+As imagens são:
+
+Ultimos_Lancamentos.jpg
+melissa_geral.webp
+MEN-E-BRAHMA.jpg
+OBoticario.jpg
+malbec.jpg
+Floratta.jpg
+coffee.jpg
+
+README.md: Este é o arquivo de documentação do projeto. Ele contém informações sobre o projeto, incluindo descrição, funcionalidades, tecnologias utilizadas, instruções para execução e estrutura do projeto.
+
+Resumo da Estrutura
+
+index.html: Estrutura HTML da página.
+
+styles.css: Estilos CSS para a página.
+
+script.js: Funcionalidades JavaScript para interatividade.
+
+imagens/: Diretório com imagens utilizadas na página.
+
+README.md: Documentação do projeto.
 
 Contato
 
