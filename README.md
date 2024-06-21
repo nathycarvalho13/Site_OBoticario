@@ -1,7 +1,7 @@
 # Site_OBoticario
 
-Perfumes OBoticário
-Bem-vindo ao repositório do projeto "Perfumes OBoticário". Este projeto é uma página web que exibe uma seleção de perfumes e produtos do OBoticário, uma das maiores redes de cosméticos do Brasil. A página inclui um menu de navegação, um carrossel de imagens, uma seção de produtos e um formulário de contato.
+
+Bem-vindo ao repositório do projeto "Site_OBoticário". Este projeto é uma página web que exibe uma seleção de perfumes e produtos do OBoticário, uma das maiores redes de cosméticos do Brasil. A página inclui um menu de navegação, um carrossel de imagens, uma seção de produtos e um formulário de contato.
 
 Índice
 
