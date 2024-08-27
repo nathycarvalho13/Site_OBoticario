@@ -63,7 +63,6 @@ body {
     padding: 50px 20px;
 }
 
-/* Estilos para o carrossel */
 .carousel {
     position: relative;
     max-width: 80%;
@@ -227,4 +226,8 @@ form button:hover {
     .nav-links.active {
         display: flex;
     }
+
+    .home {
+     Width:auto;
+}
 }
